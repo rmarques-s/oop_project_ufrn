@@ -9,7 +9,7 @@
 <img align="center" alt="Rafa-Python" height="25" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  </div>
 
-Este projeto será desenvolvido, exclusivamente, para a disciplina ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO da UFRN. 
+Este projeto será desenvolvido, exclusivamente, para a disciplina *ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO* da UFRN. 
 
 O intuito é utilizar dos conhecimentos prévios na linguagem de programação Python, raspar os dados da API pública do IBGE e com estas informações construir um dashboard para apresentação do projeto.
 
