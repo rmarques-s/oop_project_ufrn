@@ -3,6 +3,9 @@
 > Sobre a aplicação
 
 <img align="center" alt="Rafa-Python" height="25" width="85" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align="center" alt="Rafa-Python" height="25" width="85" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" alt="Rafa-Python" height="25" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Rafa-Python" height="25" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 Este projeto será desenvolvido, exclusivamente, para a disciplina ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO da UFRN. 
 
