@@ -21,6 +21,15 @@ if response.status_code == 200:
     # Ordena o dataframe pelo ranking
     df = df.sort_values("ranking")
 
+    # Salva o dataframe em um arquivo CSV
+    with open("Desktop\dados.txt", "w") as f:
+        for row in df.itertuples(index=False):
+            nome = str(row[0]).ljust(15)  # 15 é o comprimento máximo para a coluna "nome"
+            ranking = str(row[1]).ljust(8)  # 8 é o comprimento máximo para a coluna "ranking"
+            frequencia = str(row[2]).ljust(12)  # 12 é o comprimento máximo para a coluna "frequencia"
+            f.write(nome + ranking + frequencia + '\n')
+
+
     # Imprime o dataframe
     print(df)
 else:
