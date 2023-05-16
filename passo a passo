@@ -1,9 +1,0 @@
-
-
-TÓPICOS PARA IMPLEMENTAÇÃO DO PROJETO
-
-Criação do Front-End - Implementação da interface gráfica, utilizando HTML e CSS.
-
-Coleta de dados - Pegar conteúdo HTMl através da URl; - Extrair o conteúdo HTML (BeaultifulSoup); - Estruturar o conteúdo em um data frame (Pandas); - Transformar os dados em um dicionário de dados próprio; - Converter e salvar em um arquivo JSON.
-
-Criação do Back-End - Implementação do back-end recebendo os dados coletados no item anterior - Utilização da linguagem Python.
