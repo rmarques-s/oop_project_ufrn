@@ -11,7 +11,7 @@
 
 Este projeto será desenvolvido, exclusivamente, para a disciplina *ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO* da UFRN. 
 
-O intuito é utilizar dos conhecimentos prévios na linguagem de programação Python, raspar os dados da API pública do IBGE e com estas informações construir um dashboard para apresentação do projeto.
+O intuito é utilizar dos conhecimentos prévios na linguagem de programação Python, raspar os dados da API pública do IBGE e com estas informações construir uma página na WEB para apresentação do projeto.
 
  🖥 Tecnologias iniciais para o desenvolvimento:
 
