@@ -18,15 +18,6 @@ O intuito é utilizar dos conhecimentos prévios na linguagem de programação P
 - Visual Studio Code (IDE de desenvolvimento)
 - Python (linguagem a qual o web scraping será codificado)
 - Biblioteca Pandas (gerar arquivo csv com dados do webscraping)
-- HTML 5 (para montar a estrutura da página do projeto)
-- SAAS (para estilizar os elementos da página)
-- Biblioteca Apache ECharts (para montar gráficos e dashboards)
-
- 📝 Planejamento:
-
- - Primeiro coletaramos os dados da API e armazenaremos em uma planilha CSV.
- - Utilizar os dados para gerar os gráficos com a biblioteca ECharts.
- - Depois de gerar os gráficos, estruturar e estilizar a página.
 
 
 
